@@ -5,5 +5,8 @@
 
 中間字形は飯島(1960)「古典かな字鑑」を参考に，古典の仮名字形から平仮名でもなく漢字でもない字形をピックアップし，その字形をフォントデザインアプリglyphsを用いてトレースして，毛筆の筆触をできるだけ硬筆の筆触に修正した．
 
-<img width="404" height="307" alt="image" src="https://github.com/user-attachments/assets/28918343-4b59-4f82-b67b-b4a2a0769ffc" />*figure. フォントのプレビュー*
+<img width="404" height="307" alt="image" src="https://github.com/user-attachments/assets/28918343-4b59-4f82-b67b-b4a2a0769ffc" />*figure 1. フォントのプレビュー*
+
+<img width="2552" height="3579" alt="image" src="https://github.com/user-attachments/assets/ba9c2561-df95-49d3-b10b-49bee4e25b9c" />*figure 2. 参考にした古典かな字形その1*
+<img width="2552" height="3579" alt="image" src="https://github.com/user-attachments/assets/da55a202-5539-427a-968e-af2b03f4de76" />*figure 3. 参考にした古典かな字形その2*
 
