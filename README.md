@@ -5,4 +5,5 @@
 
 中間字形は飯島(1960)「古典かな字鑑」を参考に，古典の仮名字形から平仮名でもなく漢字でもない字形をピックアップし，その字形をフォントデザインアプリglyphsを用いてトレースして，毛筆の筆触をできるだけ硬筆の筆触に修正した．
 
-<img width="404" height="307" alt="image" src="https://github.com/user-attachments/assets/28918343-4b59-4f82-b67b-b4a2a0769ffc" />
+<img width="404" height="307" alt="image" src="https://github.com/user-attachments/assets/28918343-4b59-4f82-b67b-b4a2a0769ffc" />*フォントのプレビュー*
+
