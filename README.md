@@ -7,6 +7,6 @@
 
 <img width="404" height="307" alt="image" src="https://github.com/user-attachments/assets/28918343-4b59-4f82-b67b-b4a2a0769ffc" />*figure 1. フォントのプレビュー*
 
-<img width="638" height="895" alt="image" src="https://github.com/user-attachments/assets/ba9c2561-df95-49d3-b10b-49bee4e25b9c" />*figure 2. 参考にした古典かな字形その1*
-<img width="638" height="895" alt="image" src="https://github.com/user-attachments/assets/da55a202-5539-427a-968e-af2b03f4de76" />*figure 3. 参考にした古典かな字形その2*
+<img width="319" height="448" alt="image" src="https://github.com/user-attachments/assets/ba9c2561-df95-49d3-b10b-49bee4e25b9c" />*figure 2. 参考にした古典かな字形その1*
+<img width="319" height="448" alt="image" src="https://github.com/user-attachments/assets/da55a202-5539-427a-968e-af2b03f4de76" />*figure 3. 参考にした古典かな字形その2*
 
